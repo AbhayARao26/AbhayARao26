@@ -20,10 +20,6 @@ Please click on the heading to see more about it.
 This is a web app made for accesing the résumés of my classmates by storing them in a database.
 Please click on the heading to see more about it.
 
-### [Simple Calculator - Full Stack Web App](https://github.com/AbhayARao26/Simple_Calc)
-This is a web app made as a final project for one of the courses I took up in college.
-Please click on the heading to see more about it.
-
 ## 🌱 Current Focus
 
 I'm currently working on improving my skills in App Development and Data Structures & Algorithms. Excited to learn and contribute more to the open-source community!
