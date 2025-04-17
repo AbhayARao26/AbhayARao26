@@ -1,51 +1,69 @@
-# Abhay A Rao's GitHub
+# 👨‍💻 Abhay A Rao's GitHub
 
-## 👋 Hello World!
+## 👋 Hello, World!
 
-Welcome to my GitHub profile! I'm Abhay A Rao, a passionate student, coder based in Bengaluru. Here you'll find a variety of projects and contributions related to my interests.
+Welcome to my GitHub! I'm **Abhay A Rao**, a Computer Science undergrad at PES University, Bengaluru. I'm passionate about building impactful tech — from AI-driven stock market platforms and immersive games to 3D web engines and mobile apps.
 
-Feel free to explore, fork, and star any repositories that catch your eye! If you have any questions or suggestions, don't hesitate to open an issue or reach out.
+This space is where I share my experiments, projects, and collaborative work. Feel free to explore, fork, or star anything that catches your interest. I'm always open to feedback and connections!
+
+---
 
 ## 🚀 Featured Projects
 
-### [Morpho3D - Web Based 3D Engine](https://github.com/AbhayARao26/Xenomorphs)
-This is a web based 3D engine made using Three JS and React Three Fiber
-Please click on the heading to see more about it.
+### [🧠 StockFlow - AI-Powered Stock Market App](https://github.com/AbhayARao26/StockFlowAI)
+An intelligent stock market platform with dynamic charts, offline data, personalized watchlists, and an AI chatbot for financial insights. Built using **ReactJS**, **NextJS**, **TypeScript**, **NodeJS**, **MongoDB**, and **Python**.
 
-### [Headline Harbor - Flutter News App](https://github.com/AbhayARao26/HeadlineHarbor_NewsApp)
-This is a cross-platform app made using the flutter framework 
-Please click on the heading to see more about it.
+### [🎮 Labyrinthine Codex - Puzzle Game in Unity](https://github.com/AbhayARao26/EscapeGame)
+An immersive multi-puzzle game featuring Wordle and Connect Dots challenges, developed in **Unity (C#)** with dynamic transitions and scene management.
 
-### [Portfolionaire - Full Stack Web App](https://github.com/AbhayARao26/Portfolionaire)
-This is a web app made for accesing the résumés of my classmates by storing them in a database.
-Please click on the heading to see more about it.
+### [🧬 Morpho3D - Lightweight Web 3D Engine](https://github.com/AbhayARao26/Xenomorphs)
+A custom-built 3D engine using **ThreeJS** and **React Three Fiber**, enabling keyframe animations and multiple camera perspectives for web-based modelling.
+
+### [📰 Headline Harbor - Flutter News App](https://github.com/AbhayARao26/HeadlineHarbor_NewsApp)
+A fast and intuitive news app using **Flutter** and **NewsAPI**, offering real-time updates from multiple sources with smooth categorization.
+
+---
 
 ## 🌱 Current Focus
 
-I'm currently working on improving my skills in App Development and Data Structures & Algorithms. Excited to learn and contribute more to the open-source community!
+- Deepening expertise in **Full Stack Web Development** (React, NextJS, Node, MongoDB)
+- Enhancing proficiency in **Data Structures & Algorithms** with **C++**
+- Exploring **Applied Machine Learning** and **Cloud Systems**
+- Contributing to open-source & collaborative university research projects
+
+---
 
 ## 🔧 Technologies & Tools
 
-I am familiar with a few technologies and languages:
-- C
-- C++
-- Python
-- R
-- Dart, Flutter Framework
-- HTML, CSS, JS, etc.
+**Languages**  
+C++, Python, JavaScript, TypeScript, Dart, SQL
+
+**Frameworks & Libraries**  
+ReactJS, NextJS, Flutter, Flask, NodeJS, ThreeJS, React Three Fiber, Unity (C#)
+
+**Databases**  
+MongoDB, Firebase, SQL
+
+**Tools & Platforms**  
+Git/GitHub, Unix/Linux, Figma, WebXR
+
+---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/abhay-a-rao-460509264/)
-- [Mail](iabhayrao@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhay-a-rao-460509264/)
+- 📬 [Email](mailto:iabhayrao@gmail.com)
+- 💻 [Portfolio (coming soon)](https://xenomorphs.vercel.app/)
+
+---
 
 ## ❤️ Support
 
-If you find my projects helpful or interesting, consider giving them a star! It means a lot to me.
+If any of my projects helped or inspired you, a ⭐ would make my day!  
+Let’s learn, build, and grow together 🚀
+
+---
 
 ## 🙏 Acknowledgments
 
-I'd like to express my gratitude to the amazing open-source community for inspiration and collaboration.
-
-Thanks for stopping by!
-
+Huge thanks to the open-source community, my mentors, peers at PES University, and platforms like IEEE CS and Cisco thingQbator for guiding and inspiring my journey so far.
